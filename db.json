@@ -14,7 +14,8 @@
         "data": "20/06/2022",
         "inscritos": [],
         "status": "Evento Disponível",
-        "id": 1
+        "id": 1,
+        "descricao": "Jogos de tabuleiro!"
       },
       {
         "id": 2,
@@ -29,7 +30,8 @@
         "horarioFinal": "17:00",
         "local": "Auditório",
         "email": "exemplo@gmail.com",
-        "inscritos": []
+        "inscritos": [],
+        "descricao": "Palestra IA"
       },
       {
         "id": 4,
@@ -44,7 +46,8 @@
         "horarioFinal": "17:00",
         "local": "Recepção",
         "email": "exemplo@gmail.com",
-        "inscritos": []
+        "inscritos": [],
+        "descricao": "Aniversariantes"
       },
       {
         "date": "2022-06-10",
@@ -64,7 +67,8 @@
           }
         ],
         "status": "Evento Disponível",
-        "id": 5
+        "id": 5,
+        "descricao": "Palestra motivacional!"
       },
       {
         "id": 6,
@@ -97,7 +101,8 @@
           }
         ],
         "status": "Evento Disponível",
-        "id": 7
+        "id": 7,
+        "descricao": "Notas do mês"
       }
     ]
   }
